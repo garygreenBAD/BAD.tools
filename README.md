@@ -8,6 +8,6 @@ Blended Agile Delivery Toolkit
 
 ## Folder structure
 * BAD.tools
-  * Content Areas
+  * Content Area
     * Topic
       * User Guide
